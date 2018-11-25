@@ -10,6 +10,7 @@ public class MainGitGud {
         
 
         System.out.println("INCREDEEEBILISSS");
+        System.out.println("Jem kredki chlebem ze swoim starym");
 
 
     }
